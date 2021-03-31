@@ -1,0 +1,72 @@
+{
+  "config": {
+    "title": "My Doc",
+    "description": "My awesome app using docz",
+    "menu": [],
+    "repository": null,
+    "native": false,
+    "themeConfig": {},
+    "separator": "-",
+    "typescript": true
+  },
+  "entries": [
+    {
+      "key": "README.md",
+      "value": {
+        "id": "04c6e90faac2675aa89e2176d2eec7d8",
+        "filepath": "README.md",
+        "fullpath": "D:\\test\\docz-master\\docz-master\\examples\\myapp\\README.md",
+        "link": "",
+        "hidden": false,
+        "slug": "readme",
+        "route": "/readme",
+        "name": "Readme",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "umi-project",
+            "depth": 1,
+            "value": "umi project"
+          },
+          {
+            "slug": "getting-started",
+            "depth": 2,
+            "value": "Getting Started"
+          }
+        ]
+      }
+    },
+    {
+      "key": "src/components/test/Test.mdx",
+      "value": {
+        "name": "Alert",
+        "menu": "Components",
+        "id": "957d15b7f2066b7d6026c586ca210308",
+        "filepath": "src/components/test/Test.mdx",
+        "fullpath": "D:\\test\\docz-master\\docz-master\\examples\\myapp\\src\\components\\test\\Test.mdx",
+        "link": "",
+        "hidden": false,
+        "slug": "src-components-test-test",
+        "route": "/src-components-test-test",
+        "headings": [
+          {
+            "slug": "alert",
+            "depth": 1,
+            "value": "Alert"
+          },
+          {
+            "slug": "basic-usage",
+            "depth": 2,
+            "value": "Basic usage"
+          }
+        ]
+      }
+    }
+  ],
+  "props": [
+    {
+      "key": "src/pages/index.tsx",
+      "value": []
+    }
+  ]
+}
